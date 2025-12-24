@@ -17,7 +17,7 @@ theme = "PaperMod"
         # Put your image in 'static/images/avatar.png'
         imageUrl = "images/avatar.png" 
         imageTitle = "Ashiqul Alam Sadi"
-        imageWidth = 600
+        imageWidth = 400
         imageHeight = 300
 
         [[params.profileMode.buttons]]
