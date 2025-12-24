@@ -1,9 +1,9 @@
 baseURL = 'https://Ashiqulalam-Sadi.github.io/my-portfolio/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = "PaperMod"
 
- enabled = true
+
+ //enabled = true
         title = "Hi there, I'm Ashiqul Alam Sadi 👋"
         subtitle = "Data Scientist | Hugo Enthusiast | Open Source Contributor"
         displayFullLangName = true
@@ -19,3 +19,4 @@ theme = "PaperMod"
         [[params.profileMode.buttons]]
             name = "GitHub"
             url = "https://github.com/Ashiqulalam-Sadi"
+theme = "PaperMod"
