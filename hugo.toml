@@ -1,4 +1,50 @@
 baseURL = 'https://Ashiqulalam-Sadi.github.io/my-portfolio/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Ashiqul Alam Sadi | Portfolio'
 theme = "PaperMod"
+
+[params]
+    env = "production"
+    description = "Software Developer Portfolio"
+    author = "Ashiqul Alam Sadi"
+
+    # --- Profile Mode Setup ---
+    [params.profileMode]
+        enabled = true
+        title = "Hi there, I'm Sadi 👋"
+        subtitle = "Full Stack Developer | Python & Go Enthusiast | Open Source Contributor"
+        displayFullLangName = true
+        # Put your image in 'static/images/avatar.png'
+        imageUrl = "images/avatar.png" 
+        imageTitle = "Ashiqul Alam Sadi"
+        imageWidth = 150
+        imageHeight = 150
+
+        [[params.profileMode.buttons]]
+            name = "View Projects"
+            url = "posts"
+
+        [[params.profileMode.buttons]]
+            name = "Download CV"
+            url = "cv.pdf" # Place your CV in the 'static' folder
+
+    # --- Social Icons ---
+    [[params.socialIcons]]
+        name = "github"
+        url = "https://github.com/Ashiqulalam-Sadi"
+    [[params.socialIcons]]
+        name = "linkedin"
+        url = "https://linkedin.com/in/ashiqulalamsadi"
+    [[params.socialIcons]]
+        name = "email"
+        url = "mailto:your-email@example.com"
+
+# --- Navigation Menu ---
+[[menu.main]]
+    name = "Projects"
+    url = "/posts/"
+    weight = 10
+[[menu.main]]
+    name = "Search"
+    url = "/search/"
+    weight = 20
