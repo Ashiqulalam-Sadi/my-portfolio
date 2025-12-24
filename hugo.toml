@@ -1,22 +1,4 @@
 baseURL = 'https://Ashiqulalam-Sadi.github.io/my-portfolio/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-
-
- //enabled = true
-        title = "Hi there, I'm Ashiqul Alam Sadi 👋"
-        subtitle = "Data Scientist | Hugo Enthusiast | Open Source Contributor"
-        displayFullLangName = true
-        imageUrl = "https://raw.githubusercontent.com/google/material-design-icons/master/png/social/person/lg-thin/2x/baseline_person_black_48dp.png" # Replace with your image link
-        imageTitle = "My Avatar"
-        imageWidth = 120
-        imageHeight = 120
-
-        [[params.profileMode.buttons]]
-            name = "View Projects"
-            url = "posts"
-
-        [[params.profileMode.buttons]]
-            name = "GitHub"
-            url = "https://github.com/Ashiqulalam-Sadi"
 theme = "PaperMod"
