@@ -12,13 +12,13 @@ theme = "PaperMod"
     [params.profileMode]
         enabled = true
         title = "Hi there, I'm Sadi 👋"
-        subtitle = "Full Stack Developer | Python & Go Enthusiast | Open Source Contributor"
+        subtitle = "App Developer | Python & Go Enthusiast | Open Source Contributor"
         displayFullLangName = true
         # Put your image in 'static/images/avatar.png'
         imageUrl = "images/avatar.png" 
         imageTitle = "Ashiqul Alam Sadi"
-        imageWidth = 300
-        imageHeight = 300
+        imageWidth = 600
+        imageHeight = 600
 
         [[params.profileMode.buttons]]
             name = "View Projects"
