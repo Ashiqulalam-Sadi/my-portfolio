@@ -1,0 +1,4 @@
+baseURL = 'https://Ashiqulalam-Sadi.github.io/my-portfolio/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "PaperMod"
