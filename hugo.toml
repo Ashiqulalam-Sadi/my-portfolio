@@ -15,7 +15,8 @@ theme = "PaperMod"
         subtitle = "App Developer | Python & Go Enthusiast | Open Source Contributor"
         displayFullLangName = true
         # Put your image in 'static/images/avatar.png'
-        imageUrl = "images/avatar.png" 
+        //imageUrl = "images/avatar.png"
+        imageUrl = "https://www.freepik.com/free-photo/close-up-portrait-handsome-smiling-young-man-white-t-shirt-blurry-outdoor-nature_7986996.htm#fromView=keyword&page=1&position=5&uuid=13b7c1c7-e391-4ce2-93a8-95f6dcb93774&query=Male" 
         imageTitle = "Ashiqul Alam Sadi"
         imageWidth = 400
         imageHeight = 300
