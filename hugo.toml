@@ -17,8 +17,8 @@ theme = "PaperMod"
         # Put your image in 'static/images/avatar.png'
         imageUrl = "images/avatar.png" 
         imageTitle = "Ashiqul Alam Sadi"
-        imageWidth = 150
-        imageHeight = 150
+        imageWidth = 300
+        imageHeight = 300
 
         [[params.profileMode.buttons]]
             name = "View Projects"
